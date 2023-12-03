@@ -124,7 +124,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
         <ImageView
-            android:id="@+id/imageView4"
+            android:id="@+id/linkToError"
             android:layout_width="391dp"
             android:layout_height="263dp"
             android:layout_marginStart="10dp"
@@ -136,7 +136,7 @@
             tools:srcCompat="@drawable/josephii" />
 
         <ImageView
-            android:id="@+id/imageView7"
+            android:id="@+id/linkToError4"
             android:layout_width="391dp"
             android:layout_height="263dp"
             android:layout_marginStart="10dp"
@@ -145,11 +145,11 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.589"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView6"
+            app:layout_constraintTop_toBottomOf="@+id/linkToError3"
             tools:srcCompat="@drawable/emperormeiji" />
 
         <ImageView
-            android:id="@+id/imageView8"
+            android:id="@+id/linkToError5"
             android:layout_width="391dp"
             android:layout_height="263dp"
             android:layout_marginStart="10dp"
@@ -158,11 +158,11 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.684"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView7"
+            app:layout_constraintTop_toBottomOf="@+id/linkToError4"
             tools:srcCompat="@drawable/richelieu" />
 
         <ImageView
-            android:id="@+id/imageView9"
+            android:id="@+id/linkToError6"
             android:layout_width="391dp"
             android:layout_height="263dp"
             android:layout_marginStart="10dp"
@@ -171,11 +171,11 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.684"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView8"
+            app:layout_constraintTop_toBottomOf="@+id/linkToError5"
             tools:srcCompat="@drawable/immanuelkant" />
 
         <ImageView
-            android:id="@+id/imageView5"
+            android:id="@+id/linkToError2"
             android:layout_width="391dp"
             android:layout_height="263dp"
             android:layout_marginStart="10dp"
@@ -184,11 +184,11 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.487"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView4"
+            app:layout_constraintTop_toBottomOf="@+id/linkToError"
             tools:srcCompat="@drawable/louisrenault" />
 
         <ImageView
-            android:id="@+id/imageView6"
+            android:id="@+id/linkToError3"
             android:layout_width="391dp"
             android:layout_height="263dp"
             android:layout_marginStart="10dp"
@@ -197,7 +197,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.589"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView5"
+            app:layout_constraintTop_toBottomOf="@+id/linkToError2"
             tools:srcCompat="@drawable/salvadordali" />
 
         <TextView
@@ -211,7 +211,7 @@
             android:textColor="#f6f6f6"
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView9" />
+            app:layout_constraintTop_toBottomOf="@+id/linkToError6" />
 
         <TextView
             android:id="@+id/textView11"
@@ -227,7 +227,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView10" />
 
         <TextView
-            android:id="@+id/textView12"
+            android:id="@+id/linkToPeten"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -248,7 +248,7 @@
             android:layout_height="479dp"
             android:layout_marginTop="132dp"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView9"
+            app:layout_constraintTop_toBottomOf="@+id/linkToError6"
             tools:srcCompat="@drawable/teaserphoto" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>

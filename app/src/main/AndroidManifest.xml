@@ -13,6 +13,12 @@
         android:theme="@style/Theme.HistoryInPersonalities"
         tools:targetApi="31">
         <activity
+            android:name=".peten"
+            android:exported="false" />
+        <activity
+            android:name=".error"
+            android:exported="false" />
+        <activity
             android:name=".article"
             android:exported="false" />
         <activity
